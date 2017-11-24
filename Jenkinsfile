@@ -1,8 +1,5 @@
-pipeline {
-  agent any
-  stage('Build') {
-    steps {
+node {
+    stage ('Build') { 
      sh 'nikola build' 
     }
-  }
 }
