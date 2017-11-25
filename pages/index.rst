@@ -16,6 +16,7 @@
 .. _Xamarin: https://www.xamarin.com/
 .. _Python: https://www.python.org/
 .. _Purescript: http://www.purescript.org/
+.. _Feedhenry: http://feedhenry.org/
 
 
 
@@ -24,7 +25,7 @@
 
 Hi,
 
-My name is Adam Saleh, I work as a QE at Red Hat Mobile, mostly on CI/CD for our various projects, with a dash of Dev/Ops work included. My day-to-day work usually includes Jenkins_, Ansible_, Node.js_, Go_, Docker_ and OpenShift_. 
+My name is Adam Saleh, I work as a QE at Red Hat Mobile, mostly on CI/CD for our various projects, with a dash of Dev/Ops work included. My day-to-day work usually includes Jenkins_, Ansible_, Node.js_, Go_, Docker_ and OpenShift_. At work, as usual for Red Hat, we have quite a lot opensource projects, which you can check out at Feedhenry_. 
 
 Previously I worked on some integration testing with Clojure_ and Python_, some smaller mobile apps with Xamarin_ and even doubled in C++ for my thesis project.
 
